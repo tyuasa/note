@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Volumes/MyBookDuo/tyuasa/Documents/workspace_python/venv_note/bin/python3",
+    "python.pythonPath": "/usr/local/bin/python3",
     "terminal.integrated.automationShell.osx": "",
     "terminal.integrated.shell.osx": "/bin/zsh"
 }
